@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Alt Text](/welcometobulkos)
 
+<!--
 <table style="border-collapse: collapse;">
   <tr>
     <td style="border: none;">
@@ -30,3 +31,4 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+-->
