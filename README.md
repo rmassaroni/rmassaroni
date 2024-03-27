@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Alt Text](/welcometobulkos)
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=rmassaroni&count_private=true&show_icons=true)](https://github.com/rmassaroni)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmassaroni&hide=php)](https://github.com/rmassaroni)
