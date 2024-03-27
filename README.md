@@ -16,31 +16,14 @@ Here are some ideas to get you started:
 -->
 ![Alt Text](/welcometobulkos)
 
-<!--[![My github stats](https://github-readme-stats.vercel.app/api?username=rmassaroni&count_private=true&show_icons=true)](https://github.com/rmassaroni)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmassaroni&hide=php)](https://github.com/rmassaroni)
-
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <a href="https://github.com/rmassaroni">
-      <img src="https://github-readme-stats.vercel.app/api?username=rmassaroni&count_private=true&show_icons=true" alt="My github stats">
-    </a>
-  </div>
-  <div style="flex: 1;">
-    <a href="https://github.com/rmassaroni">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmassaroni&hide=php" alt="Top Langs">
-    </a>
-  </div>
-</div>
--->
 <table style="border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="border: none;">
       <a href="https://github.com/rmassaroni">
         <img src="https://github-readme-stats.vercel.app/api?username=rmassaroni&count_private=true&show_icons=true" alt="My github stats">
       </a>
     </td>
-    <td>
+    <td style="border: none;">
       <a href="https://github.com/rmassaroni">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmassaroni&hide=php" alt="Top Langs">
       </a>
