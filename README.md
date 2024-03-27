@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     </td>
     <td style="border: none;">
       <a href="https://github.com/rmassaroni">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmassaroni&hide=php,css,html&theme=transparent&layout=default" alt="Top Langs">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmassaroni&hide=php,css,html&theme=transparent" alt="Top Langs">
       </a>
     </td>
   </tr>
