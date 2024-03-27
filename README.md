@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <tr>
     <td style="border: none;">
       <a href="https://github.com/rmassaroni">
-        <img src="https://github-readme-stats.vercel.app/api?username=rmassaroni&count_private=true&show_icons=true&theme=transparent&line_height=38&show=prs_merged" alt="My github stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=rmassaroni&count_private=true&show_icons=true&theme=transparent&line_height=32&show=prs_merged" alt="My github stats">
       </a>
     </td>
     <td style="border: none;">
