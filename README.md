@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   </div>
 </div>
 -->
-<table>
+<table style="border-collapse: collapse;">
   <tr>
     <td>
       <a href="https://github.com/rmassaroni">
