@@ -32,3 +32,21 @@ Here are some ideas to get you started:
   </tr>
 </table>
 -->
+
+<p align="left"> 
+  <a href="https://github.com/rmassaroni/rmassaroni/">
+    <img src="https://komarev.com/ghpvc/?username=rmassaroni" alt="rmassaroni" />
+  </a>
+  <a href="https://github.com/rmassaroni">
+    <img height="20" src="https://img.shields.io/github/followers/rmassaroni?label=follows&logo=github&style=flat" />
+  </a>
+  <a href="https://github.com/rmassaroni">
+    <img height="20" src="https://img.shields.io/github/stars/rmassaroni?logo=github&style=flat" />
+  </a>
+  <a href="https://gitstar-ranking.com/rmassaroni">
+    <!--img height="20" src="https://img.shields.io/endpoint?label=star ranking&logo=github&style=flat&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Frmassaroni%2Fshields" /-->
+  </a>
+  <a href="https://user-badge.committers.top/united_states/rmassaroni">
+    <!--img height="20" src="https://user-badge.committers.top/united_states/rmassaroni.svg" /-->
+  </a>
+</p>
