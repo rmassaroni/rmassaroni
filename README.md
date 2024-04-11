@@ -33,15 +33,15 @@ Here are some ideas to get you started:
 </table>
 -->
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/rmassaroni/rmassaroni/">
-    <img src="https://komarev.com/ghpvc/?username=rmassaroni" alt="rmassaroni" />
+    <img src="https://komarev.com/ghpvc/?username=rmassaroni&label=Views" alt="rmassaroni" />
   </a>
   <a href="https://github.com/rmassaroni">
-    <img height="20" src="https://img.shields.io/github/followers/rmassaroni?label=follows&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/rmassaroni?label=Follows&logo=github&style=flat" />
   </a>
   <a href="https://github.com/rmassaroni">
-    <img height="20" src="https://img.shields.io/github/stars/rmassaroni?logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/Stars/rmassaroni?logo=github&style=flat" />
   </a>
   <a href="https://gitstar-ranking.com/rmassaroni">
     <!--img height="20" src="https://img.shields.io/endpoint?label=star ranking&logo=github&style=flat&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Frmassaroni%2Fshields" /-->
