@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Alt Text](/welcometobulkos)
-
 <!--
 <table style="border-collapse: collapse;">
   <tr>
@@ -32,7 +31,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 -->
-
 <p align="center"> 
   <a href="https://github.com/rmassaroni/rmassaroni/">
     <img src="https://komarev.com/ghpvc/?username=rmassaroni&label=Views" alt="rmassaroni" />
