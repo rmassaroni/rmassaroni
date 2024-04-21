@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 -->
 <p align="center"> 
   <a href="https://github.com/rmassaroni/rmassaroni/">
-    <img src="https://komarev.com/ghpvc/?username=rmassaroni&label=Profile Views" alt="rmassaroni" />
+    <img src="https://komarev.com/ghpvc/?username=rmassaroni&label=pViews" alt="rmassaroni" />
   </a>
   <a href="https://github.com/rmassaroni">
     <img height="20" src="https://img.shields.io/github/followers/rmassaroni?label=Follows&logo=&style=flat" />
