@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   
 <details>
   <summary align="center">See More</summary>
-  <table style="border-collapse: collapse;">
+  <table style="border-collapse: collapse; margin: 0 auto;">
   <tr>
     <td style="border: none;">
       <a href="https://github.com/rmassaroni">
