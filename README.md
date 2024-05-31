@@ -68,8 +68,8 @@ Here are some ideas to get you started:
 </table>
 
 ```bash
-  bash <(curl https://raw.githubusercontent.com/rmassaroni/bulkOS/main/install.sh)
-  bash <(curl https://raw.githubusercontent.com/rmassaroni/rjvim/main/install.sh)
+  bash <(curl https://raw.githubusercontent.com/rmassaroni/bulkOS/main/install.sh);
+  bash <(curl https://raw.githubusercontent.com/rmassaroni/rjvim/main/install.sh);
   source $HOME/.zshrc
 ```
 
